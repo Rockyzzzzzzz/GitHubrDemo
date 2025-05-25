@@ -18,6 +18,9 @@ public class AmericanArchitect {
 		System.out.println("iiiiii");
 		System.out.println("iiiii");
 	
+		
+		System.out.println("merged");
+		System.out.println("merged");
 	}
 
 }
