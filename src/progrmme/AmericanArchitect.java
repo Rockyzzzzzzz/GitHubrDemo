@@ -10,6 +10,11 @@ public class AmericanArchitect {
 		
 		System.out.println("changes ");
 		System.out.println("changes");
+		
+		System.out.println("AmericanArchitect");
+		System.out.println("AmericanArchitect");
+		System.out.println("AmericanArchitect");
+	
 	}
 
 }
